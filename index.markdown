@@ -1,9 +1,3 @@
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
----
 # Vinay Srikanth B
 ##### _My Github Resume Using Markdown Language_
 ## <vinay@bhamidipati.in>
