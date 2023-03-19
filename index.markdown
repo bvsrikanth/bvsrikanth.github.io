@@ -1,5 +1,5 @@
 # Vinay Srikanth B
-##### _My Github Resume Using Markdown Language_
+###### _My Github Resume Using Markdown Language & Jekyll_
 ## <vinay@bhamidipati.in>
 ## +91 93247 69486
 
